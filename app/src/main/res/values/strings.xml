@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CustomNavigationDr</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="list">
+        <item>Greece</item>
+        <item>Belarus</item>
+        <item>USA</item>
+        <item>Russia</item>
+        <item>Bulgaria</item>
+
+    </string-array>
+    <string name="title_activity_details">DetailsActivity</string>
+</resources>
